@@ -4,6 +4,7 @@
 <h3>Trabalho 1 - SSC0641 - Redes de Computadores (2022-2)</h3>
 
 Bruno Tomé Rosa - Nº USP: 10276654 </br>
+Luiz Fernando Silva Eugênio dos Santos - Nº USP: 10892680 </br>
 
 
 <p>Prof. Dr. Rodolfo Ipolito Meneguette</p>
