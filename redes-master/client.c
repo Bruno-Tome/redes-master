@@ -4,6 +4,7 @@
 //                                                          //
 //  Alunos:                                                 //
 //// Bruno Tomé Rosa n USP 10276654	//
+//// Luiz Fernando Silva Eugênio dos Santos n USP 10892680	//
 //////////////////////////////////////////////////////////////
 
 #include <stdio.h>
